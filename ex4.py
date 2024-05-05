@@ -1,4 +1,6 @@
-print("hello")
-print("hey")
-1+2
-hh
+# make a function to write text 3x
+def print_hey(text):
+    print(text)
+    print(text)
+    print(text)
+print_hey("Saiki Kusuo is a psychic")
